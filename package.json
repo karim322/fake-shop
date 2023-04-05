@@ -1,0 +1,23 @@
+{
+  "name": "fake-shop",
+  "version": "1.0.0",
+  "description": "fake backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karim322/fake-shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karim322/fake-shop/issues"
+  },
+  "homepage": "https://github.com/karim322/fake-shop#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
