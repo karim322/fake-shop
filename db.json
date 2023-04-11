@@ -9,6 +9,7 @@
     "rating": 4.69,
     "stock": 94,
     "brand": "Apple",
+    "brand-image": "https://cdn-icons-png.flaticon.com/512/731/731985.png?w=740&t=st=1681241463~exp=1681242063~hmac=4a8d8daf7a932b9a8885f8d1bb42b810d8fabb4d974b1bdf6ae64accc652e327",
     "category": "smartphones",
     "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
     "images": [
@@ -28,6 +29,7 @@
     "rating": 4.44,
     "stock": 34,
     "brand": "Apple",
+    "brand-image": "https://cdn-icons-png.flaticon.com/512/731/731985.png?w=740&t=st=1681241463~exp=1681242063~hmac=4a8d8daf7a932b9a8885f8d1bb42b810d8fabb4d974b1bdf6ae64accc652e327",
     "category": "smartphones",
     "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
     "images": [
@@ -46,6 +48,7 @@
     "rating": 4.09,
     "stock": 36,
     "brand": "Samsung",
+    "brand-image": "https://cdn-icons-png.flaticon.com/512/882/882747.png",
     "category": "smartphones",
     "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
     "images": [
@@ -61,6 +64,7 @@
     "rating": 4.3,
     "stock": 123,
     "brand": "OPPO",
+    "brand-image": "https://cdn-icons-png.flaticon.com/512/882/882745.png?w=740&t=st=1681241781~exp=1681242381~hmac=037f1cc4f546dde91b65e6d9700a1de69d1016b5369fc2823db6a2105131385b",
     "category": "smartphones",
     "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
     "images": [
@@ -80,6 +84,7 @@
     "rating": 4.09,
     "stock": 32,
     "brand": "Huawei",
+    "brand-image": "https://img.icons8.com/external-others-inmotus-design/256/external-Huawei-identity-of-brands-others-inmotus-design.png",
     "category": "smartphones",
     "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
     "images": [
